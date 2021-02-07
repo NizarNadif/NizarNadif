@@ -5,4 +5,4 @@
 - 💬 Ask me about everything you want to know about my repositories or if you want to know anything else
 - 📫 How to reach me:
     - send me an [e-mail](nizarnadif02@gmail.com)
-    - write me in [Instagram DMs](https://www.instagram.com/nizar.nadif/)
+    - write me in [Instagram](https://www.instagram.com/nizar.nadif/) DMs
