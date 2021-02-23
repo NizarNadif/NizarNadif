@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a IT student in [IIS Benedetto Castelli](https://www.iiscastelli.edu.it) (BS)
+- 🔭 I’m currently an IT student in [IIS Benedetto Castelli](https://www.iiscastelli.edu.it) (BS)
 - 🌱 I’m currently learning JavaScript, SQL, PHP, React.js and Express.js
 - 💬 Ask me about everything you want to know about my repositories or if you want to know anything else
 - 📫 How to reach me:
