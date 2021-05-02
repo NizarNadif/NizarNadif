@@ -1,12 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently an IT student in [IIS Benedetto Castelli](https://www.iiscastelli.edu.it) (BS)
-- 🌱 I’m currently learning JavaScript, SQL, PHP, React.js and Express.js
-- 💬 Ask me about everything you want to know about my repositories or if you want to know anything else
+- 💬 Ask me about everything you want to know something about my repositories or anything else
 - 📫 How to reach me:
-
-        send me an e-mail to nizarnadif02@gmail.com
-    
-        or
-    
-        write me on [Instagram](https://www.instagram.com/nizar.nadif/) DMs
+    - send me an e-mail to nizarnadif02@gmail.com
+    - write me on [Instagram](https://www.instagram.com/nizar.nadif/) DMs
