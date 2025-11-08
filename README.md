@@ -1,5 +1,5 @@
 # Hi there 👋
-My name's Nizar and I live in Brescia, in 2021 I've got my highschool diploma in computer science and in my repositories you can take a look at the projects that I've made or in which I've partecipated.
+My name's Nizar and I live in Brescia, Italy. In 2021 I've got my highschool diploma in computer science and in 2025 I've got my bachelor degree in the same field, in the University of Trento. As of now, I'm studying AI Systems in the same university, and in this profile you can take a look at the projects that I've made or in which I've partecipated.
 📫 You can reach me: 
 - via e-mail at nizarnadif02@gmail.com
 - writing me on [LinkedIn](https://www.linkedin.com/in/nizar-nadif/)
